@@ -99,7 +99,7 @@ ynh_system_user_exists --username=$user || \
 # Add the password to this user
 chpasswd <<< "${user}:${password}"
 
-# Change the user group for previous my_webapp install script
+# Change the user group for previous ktownbass-djdiskmachine install script
 groupadd -f "$user"
 usermod -g "$user" "$user"
 

@@ -1,5 +1,5 @@
 {
-    "id": "my_webapp",
+    "id": "ktownbass-djdiskmachine",
     "name": "Custom Webapp",
     "packaging_format": 1,
     "description": {
@@ -7,7 +7,7 @@
         "fr": "Application Web personnalisée avec accès SFTP"
     },
     "version": "1.0~ynh2",
-    "url": "https://github.com/YunoHost-Apps/my_webapp_ynh",
+    "url": "https://github.com/mackemint/ktownbass-djdiskmachine",
     "license": "GPL-3.0-only",
     "maintainer": {
         "name": "YunoHost Contributors",
